@@ -7,7 +7,7 @@
 I'm a technical project manager transitioning from a culinary background to the tech industry. With a passion for software development, project management, and fitness tech, I’m excited to showcase my projects and expertise here.
 
 ### 🤝 Connect with Me
-- LinkedIn: [Kane Miller](www.linkedin.com/in/kane-a-miller)
+- LinkedIn: [Kane Miller](https://www.linkedin.com/in/kane-a-miller/)
 - Portfolio Website: [https://www.kmprojectsolutions.com/](https://www.kmprojectsolutions.com/)
 - Email: [kanemiller.pm@outlook.com](mailto:kanemiller.pm@outlook.com)
 
