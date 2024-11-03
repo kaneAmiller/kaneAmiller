@@ -30,4 +30,3 @@
 ---
 
 <p align="center">💬 Interested in collaborating on tech or project management initiatives? Feel free to reach out!</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&hide_title=true&hide=stars&hide_border=true&theme=default" alt="GitHub stats" /></p>
