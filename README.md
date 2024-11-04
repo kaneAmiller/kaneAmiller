@@ -22,10 +22,10 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&theme=radical" alt="Kane Miller's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaneAmiller&theme=radical" alt="Kane Miller's GitHub Streak" />
-</p>
+
+| GitHub Stats | GitHub Streak | Top Languages |
+| ------------ | ------------- | -------------- |
+| ![Kane Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&theme=radical) | ![Kane Miller's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaneAmiller&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaneAmiller&layout=compact&theme=radical) |
 
 ---
 ## 📄 Latest Blog Posts
