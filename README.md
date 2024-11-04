@@ -24,13 +24,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&theme=radical" alt="Kane Miller's GitHub stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaneAmiller&theme=radical" alt="Kane Miller's GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaneAmiller&layout=compact&theme=radical" alt="Top Languages" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&theme=radical" alt="Kane Miller's GitHub stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaneAmiller&theme=radical" alt="Kane Miller's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaneAmiller&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
