@@ -4,41 +4,41 @@
   <img src="https://www.kmprojectsolutions.com/images/secondary-logo.png" alt="Kane Ashton Miller Logo" width="200"/>
 </p>
 
-<p align="center">🌐 Technical Project Manager | 💻 Software Developer | ⚙️ Fitness Tech Enthusiast</p>
+<p align="center">Freelance Technical Project Manager || IT Ops Specialist || Web Dev & IT Support || CS Student</p>
 
 ---
 
-<h3 align="center">🛠️ Skills & Tools I Work With</h3>
+## 🛠️ Skills & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=swagger&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Others
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft-project&logoColor=white) ![pdfkit](https://img.shields.io/badge/-pdfkit-007ACC?style=flat-square&logo=python&logoColor=white) ![Jinja2](https://img.shields.io/badge/-Jinja2-FFA500?style=flat-square&logo=python&logoColor=white) ![Emulator Software](https://img.shields.io/badge/-Emulator%20Software-000000?style=flat-square&logo=gamepad&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="API Development" src="https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=swagger&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="Asana" src="https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Microsoft Project" src="https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft-project&logoColor=white" />
-  <img alt="pdfkit" src="https://img.shields.io/badge/-pdfkit-007ACC?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Jinja2" src="https://img.shields.io/badge/-Jinja2-FFA500?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Emulator Software" src="https://img.shields.io/badge/-Emulator%20Software-000000?style=flat-square&logo=gamepad&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaneAmiller&show_icons=true&theme=radical" alt="Kane Miller's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaneAmiller&theme=radical" alt="Kane Miller's GitHub Streak" />
 </p>
 
-<h3 align="center">🤝 Connect with Me</h3>
+---
+
+## 📄 Latest Blog Posts
+
+Check out my latest insights and articles on project management and tech at [my blog](https://www.kmprojectsolutions.com/blog).
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to reach out if you want to collaborate on technical projects, exchange ideas, or learn together.
 <p align="center">
   <a href="https://www.linkedin.com/in/kane-a-miller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kanemiller.pm@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -47,4 +47,4 @@
 
 ---
 
-<p align="center">💬 Interested in collaborating on tech or project management initiatives? Feel free to reach out!</p>
+<p align="center">💬 Whether you're here to collaborate or learn, let's create something great together!</p>
