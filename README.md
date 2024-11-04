@@ -32,6 +32,8 @@
   <img alt="Asana" src="https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Microsoft Project" src="https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft-project&logoColor=white" />
+  <img alt="pdfkit" src="https://img.shields.io/badge/-pdfkit-007ACC?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Jinja2" src="https://img.shields.io/badge/-Jinja2-FFA500?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
