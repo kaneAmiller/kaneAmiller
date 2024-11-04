@@ -34,6 +34,8 @@
   <img alt="Microsoft Project" src="https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft-project&logoColor=white" />
   <img alt="pdfkit" src="https://img.shields.io/badge/-pdfkit-007ACC?style=flat-square&logo=python&logoColor=white" />
   <img alt="Jinja2" src="https://img.shields.io/badge/-Jinja2-FFA500?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Emulator Software" src="https://img.shields.io/badge/-Emulator%20Software-000000?style=flat-square&logo=gamepad&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
